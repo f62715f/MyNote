@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyNotes/Thinktank/2-Literature notes/SU2.md",
-                "mode": "source",
+                "file": "MyNotes/Thinktank/2-Literature notes/Paraview.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyNotes/Thinktank/2-Literature notes/SU2.md",
+                "file": "MyNotes/Thinktank/2-Literature notes/Paraview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyNotes/Thinktank/2-Literature notes/SU2.md",
+                "file": "MyNotes/Thinktank/2-Literature notes/Paraview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyNotes/Thinktank/2-Literature notes/SU2.md"
+                "file": "MyNotes/Thinktank/2-Literature notes/Paraview.md"
               }
             }
           },
@@ -159,6 +159,9 @@
   },
   "active": "e002d096d97782e6",
   "lastOpenFiles": [
+    "MyNotes/Thinktank/2-Literature notes/PPT tutorial.md",
+    "MyNotes/Thinktank/2-Literature notes/SU2.md",
+    "MyNotes/Thinktank/2-Literature notes/Ｗord Tutorial.md",
     "MyNotes/Thinktank/8-English/English 2023 June.md",
     "MyNotes/Thinktank/1-Fleeting notes/SU2.md",
     "MyNotes/Thinktank/8-English/Learning English with movies/List.md",
@@ -178,8 +181,6 @@
     "MyNotes/Thinktank/3-Permanent notes/Obsidian Tutorial.md",
     "MyNotes/Thinktank/8-English/2-Learning English with movies.md",
     "MyNotes/Thinktank/8-English/Learning English with movies",
-    "MyNotes/Thinktank/2-Literature notes/SU2.md",
-    "MyNotes/Thinktank/2-Literature notes/PPT tutorial.md",
     "MyNotes/Daily Note/2023-06-17.md",
     "MyNotes/Daily Note",
     "MyNotes/Thinktank/6-Ｍission/3-重要&不急/Blender.md",
@@ -187,7 +188,6 @@
     "MyNotes/Thinktank/6-Ｍission/3-重要&不急/Shapr3D.md",
     "MyNotes/Thinktank/6-Ｍission/4-不重要&不急/GSM.md",
     "MyNotes/Daily Note/2023-06-13.md",
-    "MyNotes/Daily Note/2023-06-11.md",
     "MyNotes/Thinktank/5-Code/1-Python",
     "MyNotes/Thinktank/6-Ｍission/4-不重要&不急",
     "MyNotes/Thinktank/6-Ｍission/3-重要&不急",
