@@ -11,8 +11,12 @@
             "id": "e002d096d97782e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MyNotes/Thinktank/8-English/English 2023 June.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MyNotes/Thinktank/8-English/English 2023 June.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MyNotes/Thinktank/8-English/English 2023 June.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MyNotes/Thinktank/8-English/English 2023 June.md"
+              }
             }
           },
           {
@@ -151,11 +159,11 @@
   },
   "active": "e002d096d97782e6",
   "lastOpenFiles": [
+    "MyNotes/Thinktank/8-English/Learning English with movies/List.md",
     "MyNotes/Thinktank/6-Ｍission/4-不重要&不急/Notion.md",
     "MyNotes/Thinktank/6-Ｍission/3-重要&不急/學長論文.md",
     "README.md",
     "MyNotes/Thinktank/8-English/English 2023 June.md",
-    "MyNotes/Thinktank/8-English/Learning English with movies/List.md",
     "MyNotes/Thinktank/8-English/Learning English with movies/Learn English With The Lion King.md",
     "MyNotes/Thinktank/2-Literature notes/Paraview.md",
     "MyNotes/Thinktank/2-Literature notes/Git & Github.md",

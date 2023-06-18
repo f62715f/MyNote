@@ -5,24 +5,32 @@
 * practical devices
 * the strategy in practical devices,is  to exploit this fact
 
+
 ### 2023-06-10
 * template
 * appearance
 * oncoming traffic
 * turn out
 
+
 ### 2023-06-11
 * is nothing but
+
 
 ### 2023-06-15
 * toggle
 * opacity
  ![[opacity.png]]
 
+
 ### 2023-06-16
 * embed
+
 
 
 ### 2023-06-18
 * annotation 
 * render
+* backup
+* interval
+* outline
