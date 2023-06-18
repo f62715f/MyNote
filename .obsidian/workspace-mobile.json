@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "b398569561d11346",
+    "type": "split",
+    "children": [
+      {
+        "id": "61b661342ae8e776",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19251ff1af6c38e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-06-13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce341dba8577acdf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "892ec121544bf115",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f8a05371e1e9fe33",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "420288da2c8b0361",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "a7bceb4bad3d684e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ec2eb9f6e3f586c0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6c16b4c0afd68687",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "2023-06-13.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "31a9bb81f54408e2",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "2023-06-13.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "67c49f71822a0e20",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "2023-06-13.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "892ec121544bf115",
+  "lastOpenFiles": [
+    "Thinktank/4-Index notes/Environment variable.md",
+    "Thinktank/4-Index notes/Thermodynamics.md",
+    "Thinktank/4-Index notes/CFD.md",
+    "Thinktank/4-Index notes/Fluent.md",
+    "Thinktank/5-Code/程式碼.md",
+    "Thinktank/4-Index notes/Linux.md",
+    "Thinktank/4-Index notes/相關名詞.md",
+    "Thinktank/4-Index notes/Docker.md",
+    "Thinktank/3-Permanent notes/Obsidian Tutorial.md",
+    "Thinktank/8-English/English 2023 June.md",
+    "Thinktank/3-Permanent notes/Note-taking Stragegy.md",
+    "Thinktank/8-English/Learning English with movies.md",
+    "Thinktank/8-English/YouGlish-發音.md",
+    "Thinktank/3-Permanent notes/PPT tutorial.md",
+    "Thinktank/1-Fleeting notes/gas dynamic.md",
+    "Thinktank/4-Index notes/Dynamic link library.md",
+    "Thinktank/4-Index notes/Git.md",
+    "Thinktank/4-Index notes/Cpp.md",
+    "Thinktank/4-Index notes/Anaconda.md",
+    "Thinktank/6-高優先級/gitub.md",
+    "Thinktank/6-高優先級/Fluent and CFD.md",
+    "Thinktank/6-高優先級/拯救資工系基本素養.md",
+    "Thinktank/7-Model&Design/Inkscape.md",
+    "Thinktank/6-高優先級/SU2.md",
+    "Thinktank/4-Index notes/Python.md",
+    "Thinktank/10-Physical/Acoustic Wave.md",
+    "_attachment/B378247A-A818-4826-A7D5-F44DF7AA5856_1_105_c.jpeg",
+    "_attachment/FBEC2140-50C7-4C27-8ED0-BEE954F59A27.jpeg",
+    "Untitled.canvas",
+    "Thinktank",
+    "Thinktank/5-Code",
+    "Thinktank/6-高優先級",
+    "Thinktank/1-Fleeting notes",
+    "Thinktank/3-Permanent notes",
+    "Excalidraw",
+    "Thinktank/8-English",
+    "Thinktank/4-Index notes",
+    "Thinktank/2-Literature notes",
+    "Thinktank/9-Myscipts"
+  ]
+}

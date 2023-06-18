@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "fb85591669f43e93",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1039dc5a98bf18e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec692f5e46a6df05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6384620ef62325a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2aec578e44a44403",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "110d26c8cae20b06",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47e5f64ea0d2598c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4327e815d0677d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "559f77609155d7ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "63f402f921d649b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd57f26fac9c1888",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e1690b21f9c7796d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be4187c97e1c9b83",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3de7382c33a6e64a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "3873c63f47547766",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "ec692f5e46a6df05",
+  "lastOpenFiles": [
+    "MyNotes/Thinktank/8-English/English 2023 June.md",
+    "README.md",
+    "MyNotes/Thinktank/8-English/Learning English with movies/List.md",
+    "MyNotes/Thinktank/8-English/Learning English with movies/Learn English With The Lion King.md",
+    "MyNotes/Thinktank/2-Literature notes/Paraview.md",
+    "MyNotes/Thinktank/2-Literature notes/Git & Github.md",
+    "MyNotes/Thinktank/2-Literature notes/Cpp/2-Cpp & C  Tutorial.md",
+    "MyNotes/Thinktank/2-Literature notes/Cpp/3-Cpp Question.md",
+    "MyNotes/Thinktank/2-Literature notes/Cpp/1-Cpp movies.md",
+    "MyNotes/Thinktank/2-Literature notes/Cpp",
+    "MyNotes/Thinktank/8-English/Pronounce.md",
+    "MyNotes/Thinktank/8-English/1-How to learn English.md",
+    "MyNotes/Thinktank/3-Permanent notes/Note-taking Stragegy.md",
+    "MyNotes/Thinktank/3-Permanent notes/Obsidian Tutorial.md",
+    "MyNotes/Thinktank/8-English/2-Learning English with movies.md",
+    "MyNotes/Thinktank/8-English/Learning English with movies",
+    "MyNotes/Thinktank/2-Literature notes/SU2.md",
+    "MyNotes/Thinktank/2-Literature notes/PPT tutorial.md",
+    "MyNotes/Daily Note/2023-06-17.md",
+    "MyNotes/Daily Note",
+    "MyNotes/Thinktank/6-Ｍission/3-重要&不急/Blender.md",
+    "MyNotes/Thinktank/6-Ｍission/3-重要&不急/gitub.md",
+    "MyNotes/Thinktank/6-Ｍission/3-重要&不急/Shapr3D.md",
+    "MyNotes/Thinktank/6-Ｍission/4-不重要&不急/GSM.md",
+    "MyNotes/Daily Note/2023-06-13.md",
+    "MyNotes/Daily Note/2023-06-11.md",
+    "MyNotes/Daily Note/2023-06-10.md",
+    "MyNotes/Thinktank/6-Ｍission/3-重要&不急/Git to Obsidian.md",
+    "MyNotes/2023-06-09.md",
+    "MyNotes/Thinktank/5-Code/1-Python",
+    "MyNotes/Thinktank/6-Ｍission/4-不重要&不急",
+    "MyNotes/Thinktank/6-Ｍission/3-重要&不急",
+    "MyNotes/Thinktank/6-Ｍission/2-不重要＆急",
+    "MyNotes/Thinktank/6-Ｍission/1-重要＆急",
+    "Thinktank/11-Excalidraw",
+    "Thinktank",
+    "Untitled.canvas",
+    "MyNotes/_attachment/Pasted image 20230615225820.png",
+    "MyNotes/_attachment/Community Plugins.png",
+    "MyNotes/Untitled.canvas",
+    "MyNotes/_attachment/Pasted image 20230615201643.png",
+    "MyNotes/_attachment/opacity.png"
+  ]
+}

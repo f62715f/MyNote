@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "325ca675193fe593",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca136b718b2fe4c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "745b8dc84dcce12b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f9ee182dd0d98510",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thinktank/14-Movies/Anime.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9a1b86cf4c1eda0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d10a3904de32f2d7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d9a99ae9f9a6138f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "58d15a4d2b7ede07",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b3057484d36c9f8b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c4b8aaec86ab79b4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d544f1c6f8b55cac",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Thinktank/14-Movies/Anime.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c295dd5f3fa461ad",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Thinktank/14-Movies/Anime.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "65335746c3954d98",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Thinktank/14-Movies/Anime.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "d10a3904de32f2d7",
+  "lastOpenFiles": [
+    "Thinktank/14-Movies/Anime.md",
+    "Thinktank/14-Movies",
+    "Thinktank/6-Ｍission/3-重要&不急/Fluent and CFD.md",
+    "Thinktank/6-Ｍission/3-重要&不急/Git to Obsidian.md",
+    "Thinktank/6-Ｍission/3-重要&不急/Blender.md",
+    "Thinktank/5-Code/1-Python/Euler Method.md",
+    "Thinktank/5-Code/1-Python/Newton Method.md",
+    "Thinktank/6-Ｍission/1-重要＆急/Free form deformation (FFD).md",
+    "Thinktank/6-Ｍission/3-重要&不急/Shapr3D.md",
+    "Thinktank/6-Ｍission/1-重要＆急/反向壓力回推.md",
+    "Thinktank/6-Ｍission/4-不重要&不急/Notion Tutorial.md",
+    "Thinktank/2-Literature notes/計算機底層原理.md",
+    "Thinktank/5-Code/2-Cpp & C.md",
+    "Thinktank/2-Literature notes/SU2.md",
+    "Thinktank/6-Ｍission/3-重要&不急",
+    "Thinktank/6-Ｍission/3-重要&不急/gitub.md",
+    "Thinktank/6-Ｍission/4-不重要&不急",
+    "Thinktank/6-Ｍission/4-不重要&不急/GSM.md",
+    "Thinktank/6-Ｍission/2-不重要＆急",
+    "Thinktank/6-Ｍission/1-重要＆急",
+    "Thinktank/5-Code/1-Python/梯度優化法.md",
+    "Thinktank/5-Code/1-Python",
+    "Thinktank/2-Literature notes/Paraview.md",
+    "Thinktank/2-Literature notes/Ｗord Tutorial.md",
+    "Thinktank/2-Literature notes/PPT tutorial.md",
+    "Thinktank/2-Literature notes/Cpp & C  Tutorial.md",
+    "_attachment/Pasted image 20230615225820.png",
+    "_attachment/Community Plugins.png",
+    "_attachment/opacity.png",
+    "Thinktank/6-Ｍission/Better discord.md",
+    "Excalidraw/Drawing 2023-06-10 01.25.44.excalidraw.md",
+    "CFD HW.md",
+    "_attachment/Pasted image 20230615201643.png",
+    "Excalidraw/opacity.png",
+    "Excalidraw/Pasted image 20230615201237.png",
+    "Thinktank/11-Reference/Machine learning/Report.pdf",
+    "Thinktank/11-Reference/CFD/s11012-020-01230-1.pdf",
+    "Thinktank/6-高優先級/Better discord.md",
+    "Thinktank/6-高優先級/VMware.md",
+    "Thinktank/11-Reference/CFD/2-Computational-Study-of-Flow.pdf",
+    "Thinktank/11-Reference/CFD/4053-Manuscript with authors details-20837-1-10-20210930.pdf",
+    "Thinktank/11-Reference/Machine learning/Drawing 2023-06-15 20.06.21.excalidraw.md",
+    "_attachment/B378247A-A818-4826-A7D5-F44DF7AA5856_1_105_c.jpeg",
+    "_attachment/FBEC2140-50C7-4C27-8ED0-BEE954F59A27.jpeg",
+    "Untitled.canvas"
+  ]
+}
