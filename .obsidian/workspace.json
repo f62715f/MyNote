@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f1039dc5a98bf18e",
+        "id": "f8fb46b651b2f198",
         "type": "tabs",
         "children": [
           {
-            "id": "ec692f5e46a6df05",
+            "id": "e002d096d97782e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,10 +149,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec692f5e46a6df05",
+  "active": "e002d096d97782e6",
   "lastOpenFiles": [
-    "MyNotes/Thinktank/8-English/English 2023 June.md",
+    "MyNotes/Thinktank/6-Ｍission/4-不重要&不急/Notion.md",
+    "MyNotes/Thinktank/6-Ｍission/3-重要&不急/學長論文.md",
     "README.md",
+    "MyNotes/Thinktank/8-English/English 2023 June.md",
     "MyNotes/Thinktank/8-English/Learning English with movies/List.md",
     "MyNotes/Thinktank/8-English/Learning English with movies/Learn English With The Lion King.md",
     "MyNotes/Thinktank/2-Literature notes/Paraview.md",
@@ -186,8 +180,6 @@
     "MyNotes/Daily Note/2023-06-13.md",
     "MyNotes/Daily Note/2023-06-11.md",
     "MyNotes/Daily Note/2023-06-10.md",
-    "MyNotes/Thinktank/6-Ｍission/3-重要&不急/Git to Obsidian.md",
-    "MyNotes/2023-06-09.md",
     "MyNotes/Thinktank/5-Code/1-Python",
     "MyNotes/Thinktank/6-Ｍission/4-不重要&不急",
     "MyNotes/Thinktank/6-Ｍission/3-重要&不急",
