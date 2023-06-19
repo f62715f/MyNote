@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c03089d23277da64",
+            "id": "78f23db372abdbf9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyNotes/Thinktank/2-Literature notes/Cpp/2-Cpp & C  Tutorial.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyNotes/Thinktank/2-Literature notes/Cpp/2-Cpp & C  Tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyNotes/Thinktank/2-Literature notes/Cpp/2-Cpp & C  Tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MyNotes/Thinktank/2-Literature notes/Cpp/2-Cpp & C  Tutorial.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,12 +149,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c03089d23277da64",
+  "active": "110d26c8cae20b06",
   "lastOpenFiles": [
-    "MyNotes/Thinktank/2-Literature notes/Cpp/3-Cpp Question.md",
-    "MyNotes/Thinktank/2-Literature notes/Cpp/2-Cpp & C  Tutorial.md",
-    "MyNotes/Thinktank/2-Literature notes/Cpp/1-Cpp movies.md",
+    "MyNotes/Thinktank/14-Movies/InvRANS.txt",
+    "MyNotes/_attachment/InvRANS 1.txt",
+    "MyNotes/_attachment/InvRANS.txt",
     "MyNotes/Thinktank/8-English/English 2023 June.md",
+    "Untitled.md",
+    "MyNotes/Thinktank/2-Literature notes/Cpp/2-Cpp & C  Tutorial.md",
+    "MyNotes/Thinktank/2-Literature notes/Cpp/3-Cpp Question.md",
+    "MyNotes/Thinktank/2-Literature notes/Cpp/1-Cpp movies.md",
     "MyNotes/Thinktank/2-Literature notes/Paraview.md",
     "MyNotes/Thinktank/2-Literature notes/PPT tutorial.md",
     "MyNotes/Thinktank/2-Literature notes/SU2.md",
@@ -186,15 +182,11 @@
     "MyNotes/Thinktank/6-Ｍission/3-重要&不急/Blender.md",
     "MyNotes/Thinktank/6-Ｍission/3-重要&不急/gitub.md",
     "MyNotes/Thinktank/6-Ｍission/3-重要&不急/Shapr3D.md",
-    "MyNotes/Thinktank/6-Ｍission/4-不重要&不急/GSM.md",
-    "MyNotes/Daily Note/2023-06-13.md",
     "MyNotes/Thinktank/5-Code/1-Python",
     "MyNotes/Thinktank/6-Ｍission/4-不重要&不急",
     "MyNotes/Thinktank/6-Ｍission/3-重要&不急",
     "MyNotes/Thinktank/6-Ｍission/2-不重要＆急",
     "MyNotes/Thinktank/6-Ｍission/1-重要＆急",
-    "Thinktank/11-Excalidraw",
-    "Thinktank",
     "Untitled.canvas",
     "MyNotes/_attachment/Pasted image 20230615225820.png",
     "MyNotes/_attachment/Community Plugins.png",
