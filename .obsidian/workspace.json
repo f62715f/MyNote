@@ -11,24 +11,15 @@
             "id": "78f23db372abdbf9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3aa4525dd80b3aa5",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "README.md"
               }
             }
           },
@@ -166,9 +157,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3aa4525dd80b3aa5",
+  "active": "110d26c8cae20b06",
   "lastOpenFiles": [
     "Untitled.md",
+    "README.md",
     "MyNotes/Daily Note/config_template.cfg",
     "SU2.md",
     "MyNotes/Thinktank/14-Movies/InvRANS.txt",
@@ -184,9 +176,8 @@
     "MyNotes/Thinktank/2-Literature notes/Ｗord Tutorial.md",
     "MyNotes/Thinktank/1-Fleeting notes/SU2.md",
     "MyNotes/Thinktank/8-English/Learning English with movies/List.md",
-    "MyNotes/Thinktank/6-Ｍission/4-不重要&不急/Notion.md",
-    "MyNotes/Thinktank/6-Ｍission/3-重要&不急/學長論文.md",
-    "README.md",
+    "MyNotes/Thinktank/6-To do list/4-不重要&不急/Notion.md",
+    "MyNotes/Thinktank/6-To do list/3-重要&不急/學長論文.md",
     "MyNotes/Thinktank/8-English/Learning English with movies/Learn English With The Lion King.md",
     "MyNotes/Thinktank/2-Literature notes/Git & Github.md",
     "MyNotes/Thinktank/2-Literature notes/Cpp",
@@ -198,12 +189,12 @@
     "MyNotes/Thinktank/8-English/Learning English with movies",
     "MyNotes/Daily Note/2023-06-17.md",
     "MyNotes/Daily Note",
-    "MyNotes/Thinktank/6-Ｍission/3-重要&不急/Blender.md",
-    "MyNotes/Thinktank/6-Ｍission/3-重要&不急/gitub.md",
-    "MyNotes/Thinktank/6-Ｍission/3-重要&不急/Shapr3D.md",
+    "MyNotes/Thinktank/6-To do list/3-重要&不急/Blender.md",
+    "MyNotes/Thinktank/6-To do list/3-重要&不急/gitub.md",
+    "MyNotes/Thinktank/6-To do list/3-重要&不急/Shapr3D.md",
     "MyNotes/Thinktank/5-Code/1-Python",
-    "MyNotes/Thinktank/6-Ｍission/4-不重要&不急",
-    "MyNotes/Thinktank/6-Ｍission/3-重要&不急",
+    "MyNotes/Thinktank/6-To do list/4-不重要&不急",
+    "MyNotes/Thinktank/6-To do list/3-重要&不急",
     "Untitled.canvas",
     "MyNotes/_attachment/Pasted image 20230615225820.png",
     "MyNotes/_attachment/Community Plugins.png",
