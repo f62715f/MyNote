@@ -44,4 +44,6 @@
 ### 2023-06-22
 * extensive guide
 * deviation
-* 
+* by calling 調用
+* crucial
+* ripped apart
