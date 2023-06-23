@@ -10,3 +10,7 @@
 
 6. [Wall function Markers and Boundary Conditions ]( https://su2code.github.io/docs_v7/Markers-and-BC/)
 
+7. MUSCL scheme : ----shock有關
+    The **MUSCL scheme** is a [finite volume method](https://en.wikipedia.org/wiki/Finite_volume_method "Finite volume method") that can provide highly accurate numerical solutions for a given system, even in cases where the solutions exhibit shocks, discontinuities
+
+8. Godunov’s Theorem ------shock 有關
