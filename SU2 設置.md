@@ -46,3 +46,19 @@ INNER_ITER = 200
 ITER = 200
 
 ```
+
+---
+```
+% ------------------ Coefficient-based Convergence Criteria --------------
+% e.g. CONV_FIELD= RMS_PRESSURE, RMS_VELOCITY-X, RMS_VELOCITY-Y, RMS_TKE, RMS_SPECIES
+CONV_FIELD= DRAG
+%
+% Number of elements to apply the criteria
+CONV_CAUCHY_ELEMS= 100
+%
+% Epsilon to control the series convergence
+CONV_CAUCHY_EPS= 1E-10
+%
+% `CONV_STARTITER` defines when the solver should start monitoring the criterion.
+CONV_STARTITER= 0
+```

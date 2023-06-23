@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyNotes/Thinktank/1-Fleeting notes/SU2.md",
+                "file": "SU2 設置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyNotes/Thinktank/1-Fleeting notes/SU2.md",
+                "file": "SU2 設置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyNotes/Thinktank/1-Fleeting notes/SU2.md"
+                "file": "SU2 設置.md"
               }
             }
           },
@@ -169,8 +170,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78f23db372abdbf9",
+  "active": "bbd41e79ff1eee70",
   "lastOpenFiles": [
+    "MyNotes/Thinktank/1-Fleeting notes/SU2.md",
     "README.md",
     "Untitled.md",
     "SU2 設置.md",
@@ -190,7 +192,6 @@
     "MyNotes/Thinktank/2-Literature notes/PPT tutorial.md",
     "MyNotes/Thinktank/2-Literature notes/SU2.md",
     "MyNotes/Thinktank/2-Literature notes/Ｗord Tutorial.md",
-    "MyNotes/Thinktank/1-Fleeting notes/SU2.md",
     "MyNotes/Thinktank/6-To do list/4-不重要&不急/Notion.md",
     "MyNotes/Thinktank/6-To do list/3-重要&不急/學長論文.md",
     "MyNotes/Thinktank/2-Literature notes/Git & Github.md",
