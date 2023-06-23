@@ -92,3 +92,4 @@ WINDOW_FUNCTION = HANN_SQUARE
 
 ---
 [Solver Setup](https://su2code.github.io/docs_v7/Solver-Setup/)
+[Wall function Markers and Boundary Conditions ]( https://su2code.github.io/docs_v7/Markers-and-BC/)

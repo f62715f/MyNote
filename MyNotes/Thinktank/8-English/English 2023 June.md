@@ -52,3 +52,4 @@
 ### 2023-06-23
 * blank
 * untitled ---發音
+* diminish

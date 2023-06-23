@@ -4,23 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d757da0d955e348d",
+        "id": "67dc8dde65116f16",
         "type": "tabs",
         "children": [
           {
-            "id": "78f23db372abdbf9",
+            "id": "62efe5e95ade9edd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyNotes/Thinktank/1-Fleeting notes/SU2.md",
+                "file": "MyNotes/Thinktank/8-English/English 2023 June.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bbd41e79ff1eee70",
+            "id": "e1354ddb3055052c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MyNotes/Thinktank/8-English/English 2023 June.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d946ee9bebe7b786",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SU2 設置.md",
+                "file": "MyNotes/Thinktank/8-English/English 2023 June.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SU2 設置.md",
+                "file": "MyNotes/Thinktank/8-English/English 2023 June.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SU2 設置.md"
+                "file": "MyNotes/Thinktank/8-English/English 2023 June.md"
               }
             }
           },
@@ -170,13 +182,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bbd41e79ff1eee70",
+  "active": "e1354ddb3055052c",
   "lastOpenFiles": [
-    "MyNotes/Thinktank/1-Fleeting notes/SU2.md",
     "SU2 設置.md",
+    "MyNotes/Thinktank/8-English/English 2023 June.md",
+    "MyNotes/Thinktank/1-Fleeting notes/SU2.md",
     "README.md",
     "Untitled.md",
-    "MyNotes/Thinktank/8-English/English 2023 June.md",
     "MyNotes/Thinktank/8-English/Learning English with movies/Learn English With The Lion King.md",
     "MyNotes/Thinktank/8-English/Learning English with movies/List.md",
     "Untitled",
