@@ -62,3 +62,33 @@ CONV_CAUCHY_EPS= 1E-10
 % `CONV_STARTITER` defines when the solver should start monitoring the criterion.
 CONV_STARTITER= 0
 ```
+
+---
+
+```
+% 暫態
+% ------------------ Coefficient-based Windowed Time Convergence Criteria 
+% Activate the windowed cauchy criterion
+WINDOW_CAUCHY_CRIT = YES
+%
+% Specify convergence field(s)
+CONV_WINDOW_FIELD= (TAVG_DRAG, TAVG_LIFT)
+%
+% Number of elements to apply the criteria
+CONV_WINDOW_CAUCHY_ELEMS= 100
+%
+% Epsilon to control the series convergence
+CONV_WINDOW_CAUCHY_EPS= 1E-3
+%
+% Number of iterations to wait after the iteration specified in  WINDOW_START_ITER.
+CONV_WINDOW_STARTITER = 10
+%
+% Iteration to start the windowed time average
+WINDOW_START_ITER = 500
+%
+% Window-function to weight the time average. Options (SQUARE, HANN, HANN_SQUARE, BUMP), SQUARE is default.
+WINDOW_FUNCTION = HANN_SQUARE
+```
+
+---
+[Solver Setup](https://su2code.github.io/docs_v7/Solver-Setup/)
