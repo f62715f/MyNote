@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SU2 設置.md",
+                "file": "MyNotes/Thinktank/8-English/English 2023 June.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SU2 設置.md",
+                "file": "MyNotes/Thinktank/8-English/English 2023 June.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SU2 設置.md"
+                "file": "MyNotes/Thinktank/8-English/English 2023 June.md"
               }
             }
           },
@@ -182,7 +182,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d946ee9bebe7b786",
+  "active": "e1354ddb3055052c",
   "lastOpenFiles": [
     "MyNotes/Thinktank/1-Fleeting notes/SU2.md",
     "SU2 設置.md",
