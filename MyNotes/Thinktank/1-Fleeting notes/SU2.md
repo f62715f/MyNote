@@ -6,3 +6,5 @@
 
 4. CONV_RESIDUAL_MINVAL= -3  改改看
 
+5. VOLUME_OUTPUT 看是什麼
+
