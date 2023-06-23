@@ -47,3 +47,8 @@
 * by calling 調用
 * crucial
 * ripped apart
+
+
+### 2023-06-23
+* blank
+* untitled ---發音
