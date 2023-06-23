@@ -1,1 +1,8 @@
-怎麼在su2 測量長度
+1. 怎麼在paraview 測量長度
+
+2. CONV_FIELD= REL_RMS_DENSITY 改改看
+
+3. REL_RMS_DENSITY  vs  RMS_DENSITY
+
+4. CONV_RESIDUAL_MINVAL= -3  改改看
+
