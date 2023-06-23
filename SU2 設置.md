@@ -23,7 +23,7 @@ TIME_DOMAIN = YES
 % Time Step for dual time stepping simulations (s)
 TIME_STEP = 1.0
 %
-% Total Physical Time for dual time stepping simulations (s)
+% Total Physical Time for dual time stepping simulations (s) ------ 不會
 MAX_TIME = 50.0
 %
 % Number of internal iterations ---- 每個時間步內的迭代次數使用 `INNER_ITER` 選項進行控制
@@ -37,6 +37,12 @@ TIME_ITER = 200
 
 ---
 ```
-
+% ------------------------- Steady-state Simulation ----------------------
+TIME_DOMAIN = NO 
+% 也可不寫
+%
+% 以下作用一樣，二選一，若都存在，su2會以INNER_ITER優先
+INNER_ITER = 200
+ITER = 200
 
 ```
