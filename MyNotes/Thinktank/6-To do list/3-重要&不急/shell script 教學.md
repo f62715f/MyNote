@@ -1,0 +1,1 @@
+[linux bash script 操作教學示範](https://www.youtube.com/playlist?list=PLWkbsqjwqW3js8p3yg8dOUZWGsun1omPh)

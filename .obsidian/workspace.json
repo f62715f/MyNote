@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "75ba16091f579fb8",
+        "id": "661142df61cca503",
         "type": "tabs",
         "children": [
           {
-            "id": "110f1b180f1f0be3",
+            "id": "ca50bf1f6ef65e59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyNotes/Thinktank/1-Fleeting notes/SU2.md",
+                "file": "MyNotes/Thinktank/8-English/Learning English with movies/List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyNotes/Thinktank/1-Fleeting notes/SU2.md",
+                "file": "MyNotes/Thinktank/8-English/Learning English with movies/List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyNotes/Thinktank/1-Fleeting notes/SU2.md",
+                "file": "MyNotes/Thinktank/8-English/Learning English with movies/List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyNotes/Thinktank/1-Fleeting notes/SU2.md"
+                "file": "MyNotes/Thinktank/8-English/Learning English with movies/List.md"
               }
             }
           },
@@ -157,16 +157,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "110f1b180f1f0be3",
+  "active": "ca50bf1f6ef65e59",
   "lastOpenFiles": [
+    "MyNotes/Thinktank/8-English/Learning English with movies/Learn English With The Lion King.md",
+    "MyNotes/Thinktank/6-To do list/3-重要&不急/shell script 教學.md",
+    "MyNotes/Thinktank/1-Fleeting notes/SU2.md",
     "SU2 設置.md",
     "Untitled.md",
     "MyNotes/Daily Note/2023-06-17.md",
     "MyNotes/Daily Note/2023-06-11.md",
     "MyNotes/Daily Note/2023-06-10.md",
     "MyNotes/Thinktank/8-English/English 2023 June.md",
-    "MyNotes/Thinktank/1-Fleeting notes/SU2.md",
-    "MyNotes/Thinktank/8-English/Learning English with movies/Learn English With The Lion King.md",
     "README.md",
     "MyNotes/Thinktank/8-English/Learning English with movies/List.md",
     "Untitled",
@@ -190,7 +191,6 @@
     "MyNotes/Thinktank/8-English/1-How to learn English.md",
     "MyNotes/Thinktank/3-Permanent notes/Note-taking Stragegy.md",
     "MyNotes/Thinktank/3-Permanent notes/Obsidian Tutorial.md",
-    "MyNotes/Thinktank/8-English/2-Learning English with movies.md",
     "MyNotes/Thinktank/8-English/Learning English with movies",
     "MyNotes/Daily Note",
     "MyNotes/Thinktank/5-Code/1-Python",
