@@ -57,4 +57,4 @@
 
 ### 2023-06-24
 * benchmark  case
-* 
+* elliptical ---look picture to keep in mind
