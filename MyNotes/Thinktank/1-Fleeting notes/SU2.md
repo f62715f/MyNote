@@ -20,3 +20,11 @@
 10. SU2_DOT
 
 11. [FADO](https://github.com/su2code/FADO)
+
+12. ROE scheme
+
+13. AUSM scheme
+
+14. BDF scheme
+
+15. Pseudo Transients for Steady-State CFD ------急
