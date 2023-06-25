@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bca3089eecff6094",
+            "id": "68175d37270ff8c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyNotes/Thinktank/8-English/English 2023 June.md",
+                "file": "公式.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyNotes/Thinktank/8-English/English 2023 June.md",
+                "file": "公式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyNotes/Thinktank/8-English/English 2023 June.md",
+                "file": "公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyNotes/Thinktank/8-English/English 2023 June.md"
+                "file": "公式.md"
               }
             }
           },
@@ -157,8 +157,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bca3089eecff6094",
+  "active": "68175d37270ff8c5",
   "lastOpenFiles": [
+    "Untitled.md",
+    "公式.md",
+    "MyNotes/Thinktank/8-English/English 2023 June.md",
     "MyNotes/Thinktank/8-English/Pronounce.md",
     "MyNotes/Thinktank/8-English/Learning English with movies/List.md",
     "MyNotes/Thinktank/8-English/Learning English with movies/Learn English With The Lion King.md",
@@ -166,11 +169,9 @@
     "MyNotes/Thinktank/6-To do list/3-重要&不急/shell script 教學.md",
     "MyNotes/Thinktank/1-Fleeting notes/SU2.md",
     "SU2 設置.md",
-    "Untitled.md",
     "MyNotes/Daily Note/2023-06-17.md",
     "MyNotes/Daily Note/2023-06-11.md",
     "MyNotes/Daily Note/2023-06-10.md",
-    "MyNotes/Thinktank/8-English/English 2023 June.md",
     "README.md",
     "Untitled",
     "MyNotes/Daily Note/config_template.cfg",
@@ -190,7 +191,6 @@
     "MyNotes/Thinktank/2-Literature notes/Git & Github.md",
     "MyNotes/Thinktank/2-Literature notes/Cpp",
     "MyNotes/Thinktank/8-English/1-How to learn English.md",
-    "MyNotes/Thinktank/3-Permanent notes/Note-taking Stragegy.md",
     "MyNotes/Thinktank/8-English/Learning English with movies",
     "MyNotes/Daily Note",
     "MyNotes/Thinktank/5-Code/1-Python",
