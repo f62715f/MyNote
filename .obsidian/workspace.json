@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "58727c2ecacc709f",
+        "id": "2514b3500828d8c7",
         "type": "tabs",
         "children": [
           {
-            "id": "68175d37270ff8c5",
+            "id": "c56328178e9395bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "公式.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "公式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "公式.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,10 +149,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "68175d37270ff8c5",
+  "active": "c56328178e9395bc",
   "lastOpenFiles": [
-    "Untitled.md",
+    "MyNotes/Thinktank/14-Movies/Anime.md",
     "公式.md",
+    "Untitled.md",
     "MyNotes/Thinktank/8-English/English 2023 June.md",
     "MyNotes/Thinktank/8-English/Pronounce.md",
     "MyNotes/Thinktank/8-English/Learning English with movies/List.md",
@@ -190,7 +183,6 @@
     "MyNotes/Thinktank/6-To do list/3-重要&不急/學長論文.md",
     "MyNotes/Thinktank/2-Literature notes/Git & Github.md",
     "MyNotes/Thinktank/2-Literature notes/Cpp",
-    "MyNotes/Thinktank/8-English/1-How to learn English.md",
     "MyNotes/Thinktank/8-English/Learning English with movies",
     "MyNotes/Daily Note",
     "MyNotes/Thinktank/5-Code/1-Python",
