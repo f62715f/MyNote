@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "07a9151a8197b017",
+        "id": "9c404468da223fff",
         "type": "tabs",
         "children": [
           {
-            "id": "6873f5809720580b",
+            "id": "1e181c46c249b393",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -149,8 +149,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6873f5809720580b",
+  "active": "1e181c46c249b393",
   "lastOpenFiles": [
+    "MyNotes/Thinktank/5-Code/1-Python/Euler Method.md",
+    "MyNotes/Thinktank/5-Code/1-Python/Newton Method.md",
     "MyNotes/Thinktank/3-Permanent notes/SU2/SU2 install.md",
     "MyNotes/Thinktank/2-Literature notes/SU2.md",
     "MyNotes/Thinktank/3-Permanent notes/SU2",
@@ -181,8 +183,6 @@
     "MyNotes/Thinktank/2-Literature notes/Paraview.md",
     "MyNotes/Thinktank/2-Literature notes/PPT tutorial.md",
     "MyNotes/Thinktank/2-Literature notes/Ｗord Tutorial.md",
-    "MyNotes/Thinktank/6-To do list/4-不重要&不急/Notion.md",
-    "MyNotes/Thinktank/6-To do list/3-重要&不急/學長論文.md",
     "MyNotes/Thinktank/2-Literature notes/Cpp",
     "MyNotes/Thinktank/8-English/Learning English with movies",
     "MyNotes/Daily Note",
