@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyNotes/Thinktank/3-Permanent notes/SU2/SU2 install.md",
+                "file": "MyNotes/Thinktank/14-Movies/美劇.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyNotes/Thinktank/3-Permanent notes/SU2/SU2 install.md",
+                "file": "MyNotes/Thinktank/14-Movies/美劇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyNotes/Thinktank/3-Permanent notes/SU2/SU2 install.md",
+                "file": "MyNotes/Thinktank/14-Movies/美劇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyNotes/Thinktank/3-Permanent notes/SU2/SU2 install.md"
+                "file": "MyNotes/Thinktank/14-Movies/美劇.md"
               }
             }
           },
@@ -159,12 +159,13 @@
   },
   "active": "1e181c46c249b393",
   "lastOpenFiles": [
+    "MyNotes/Thinktank/14-Movies/Anime.md",
+    "MyNotes/Thinktank/14-Movies/美劇.md",
+    "MyNotes/Thinktank/3-Permanent notes/SU2/SU2 install.md",
     "MyNotes/Thinktank/5-Code/1-Python/Euler Method.md",
     "MyNotes/Thinktank/5-Code/1-Python/Newton Method.md",
-    "MyNotes/Thinktank/3-Permanent notes/SU2/SU2 install.md",
     "MyNotes/Thinktank/2-Literature notes/SU2.md",
     "MyNotes/Thinktank/3-Permanent notes/SU2",
-    "MyNotes/Thinktank/14-Movies/Anime.md",
     "公式.md",
     "Untitled.md",
     "MyNotes/Thinktank/8-English/English 2023 June.md",
@@ -190,7 +191,6 @@
     "MyNotes/Thinktank/2-Literature notes/Cpp/1-Cpp movies.md",
     "MyNotes/Thinktank/2-Literature notes/Paraview.md",
     "MyNotes/Thinktank/2-Literature notes/PPT tutorial.md",
-    "MyNotes/Thinktank/2-Literature notes/Ｗord Tutorial.md",
     "MyNotes/Thinktank/2-Literature notes/Cpp",
     "MyNotes/Thinktank/8-English/Learning English with movies",
     "MyNotes/Daily Note",
