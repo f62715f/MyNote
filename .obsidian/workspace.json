@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyNotes/Thinktank/14-Movies/美劇.md",
+                "file": "公式.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyNotes/Thinktank/14-Movies/美劇.md",
+                "file": "公式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyNotes/Thinktank/14-Movies/美劇.md",
+                "file": "公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyNotes/Thinktank/14-Movies/美劇.md"
+                "file": "公式.md"
               }
             }
           },
@@ -157,7 +157,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "110d26c8cae20b06",
+  "active": "1e181c46c249b393",
   "lastOpenFiles": [
     "MyNotes/Thinktank/14-Movies/美劇.md",
     "english.md",
