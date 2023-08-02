@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9c404468da223fff",
+        "id": "4f533a49351e507d",
         "type": "tabs",
         "children": [
           {
-            "id": "1e181c46c249b393",
+            "id": "8b85a81e05ee156b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "公式.md",
+                "file": "MyNotes/Thinktank/1-Fleeting notes/SU2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "公式.md",
+                "file": "MyNotes/Thinktank/1-Fleeting notes/SU2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "公式.md",
+                "file": "MyNotes/Thinktank/1-Fleeting notes/SU2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "公式.md"
+                "file": "MyNotes/Thinktank/1-Fleeting notes/SU2.md"
               }
             }
           },
@@ -157,8 +157,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e181c46c249b393",
+  "active": "8b85a81e05ee156b",
   "lastOpenFiles": [
+    "MyNotes/Thinktank/2-Literature notes/Cpp/1-Cpp movies.md",
+    "MyNotes/Thinktank/1-Fleeting notes/SU2.md",
+    "MyNotes/Daily Note/2023-06-10.md",
+    "公式.md",
     "MyNotes/Thinktank/14-Movies/美劇.md",
     "english.md",
     "MyNotes/Thinktank/14-Movies/Anime.md",
@@ -167,7 +171,6 @@
     "MyNotes/Thinktank/5-Code/1-Python/Newton Method.md",
     "MyNotes/Thinktank/2-Literature notes/SU2.md",
     "MyNotes/Thinktank/3-Permanent notes/SU2",
-    "公式.md",
     "Untitled.md",
     "MyNotes/Thinktank/8-English/English 2023 June.md",
     "MyNotes/Thinktank/8-English/Pronounce.md",
@@ -175,11 +178,9 @@
     "MyNotes/Thinktank/8-English/Learning English with movies/Learn English With The Lion King.md",
     "MyNotes/Thinktank/6-To do list/4-不重要&不急/GSM.md",
     "MyNotes/Thinktank/6-To do list/3-重要&不急/shell script 教學.md",
-    "MyNotes/Thinktank/1-Fleeting notes/SU2.md",
     "SU2 設置.md",
     "MyNotes/Daily Note/2023-06-17.md",
     "MyNotes/Daily Note/2023-06-11.md",
-    "MyNotes/Daily Note/2023-06-10.md",
     "README.md",
     "Untitled",
     "MyNotes/Daily Note/config_template.cfg",
@@ -189,7 +190,6 @@
     "MyNotes/_attachment/InvRANS.txt",
     "MyNotes/Thinktank/2-Literature notes/Cpp/2-Cpp & C  Tutorial.md",
     "MyNotes/Thinktank/2-Literature notes/Cpp/3-Cpp Question.md",
-    "MyNotes/Thinktank/2-Literature notes/Cpp/1-Cpp movies.md",
     "MyNotes/Thinktank/2-Literature notes/Paraview.md",
     "MyNotes/Thinktank/2-Literature notes/Cpp",
     "MyNotes/Thinktank/8-English/Learning English with movies",
