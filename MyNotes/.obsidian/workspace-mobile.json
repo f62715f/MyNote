@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thinktank/14-Movies/Anime.md",
+                "file": "Thinktank/14-Movies/美劇.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Thinktank/14-Movies/Anime.md",
+            "file": "Thinktank/14-Movies/美劇.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Thinktank/14-Movies/Anime.md",
+            "file": "Thinktank/14-Movies/美劇.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Thinktank/14-Movies/Anime.md"
+            "file": "Thinktank/14-Movies/美劇.md"
           }
         }
       }
@@ -141,9 +141,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d10a3904de32f2d7",
+  "active": "f9ee182dd0d98510",
   "lastOpenFiles": [
+    "Thinktank/1-Fleeting notes/SU2.md",
     "Thinktank/14-Movies/Anime.md",
+    "Thinktank/8-English/Learning English with movies/Learn English With The Lion King.md",
+    "Daily Note/2023-06-17.md",
+    "Thinktank/3-Permanent notes/SU2/SU2 install.md",
+    "Thinktank/8-English/Learning English with movies/List.md",
+    "Thinktank/2-Literature notes/Cpp/3-Cpp Question.md",
+    "Thinktank/14-Movies/InvRANS.txt",
+    "Daily Note/config_template.cfg",
+    "_attachment/InvRANS.txt",
+    "_attachment/InvRANS 1.txt",
+    "Thinktank/14-Movies/美劇.md",
+    "Thinktank/6-To do list/3-重要&不急/shell script 教學.md",
+    "Thinktank/6-To do list/3-重要&不急/學長論文.md",
     "Thinktank/14-Movies",
     "Thinktank/6-Ｍission/3-重要&不急/Fluent and CFD.md",
     "Thinktank/6-Ｍission/3-重要&不急/Git to Obsidian.md",
@@ -166,25 +179,12 @@
     "Thinktank/5-Code/1-Python/梯度優化法.md",
     "Thinktank/5-Code/1-Python",
     "Thinktank/2-Literature notes/Paraview.md",
-    "Thinktank/2-Literature notes/Ｗord Tutorial.md",
-    "Thinktank/2-Literature notes/PPT tutorial.md",
-    "Thinktank/2-Literature notes/Cpp & C  Tutorial.md",
     "_attachment/Pasted image 20230615225820.png",
     "_attachment/Community Plugins.png",
     "_attachment/opacity.png",
-    "Thinktank/6-Ｍission/Better discord.md",
-    "Excalidraw/Drawing 2023-06-10 01.25.44.excalidraw.md",
-    "CFD HW.md",
     "_attachment/Pasted image 20230615201643.png",
     "Excalidraw/opacity.png",
     "Excalidraw/Pasted image 20230615201237.png",
-    "Thinktank/11-Reference/Machine learning/Report.pdf",
-    "Thinktank/11-Reference/CFD/s11012-020-01230-1.pdf",
-    "Thinktank/6-高優先級/Better discord.md",
-    "Thinktank/6-高優先級/VMware.md",
-    "Thinktank/11-Reference/CFD/2-Computational-Study-of-Flow.pdf",
-    "Thinktank/11-Reference/CFD/4053-Manuscript with authors details-20837-1-10-20210930.pdf",
-    "Thinktank/11-Reference/Machine learning/Drawing 2023-06-15 20.06.21.excalidraw.md",
     "_attachment/B378247A-A818-4826-A7D5-F44DF7AA5856_1_105_c.jpeg",
     "_attachment/FBEC2140-50C7-4C27-8ED0-BEE954F59A27.jpeg",
     "Untitled.canvas"
