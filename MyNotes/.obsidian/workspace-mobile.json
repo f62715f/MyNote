@@ -21,14 +21,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thinktank/14-Movies/美劇.md",
+                "file": "Thinktank/14-Movies/Anime.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24ff98cfe83aa4c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thinktank/14-Movies/電視劇.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f130ba868a340cc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thinktank/14-Movies/Anime.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Thinktank/14-Movies/美劇.md",
+            "file": "Thinktank/14-Movies/Anime.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +135,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Thinktank/14-Movies/美劇.md",
+            "file": "Thinktank/14-Movies/Anime.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +147,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Thinktank/14-Movies/美劇.md"
+            "file": "Thinktank/14-Movies/Anime.md"
           }
         }
       }
@@ -141,10 +165,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f9ee182dd0d98510",
+  "active": "f130ba868a340cc1",
   "lastOpenFiles": [
-    "Thinktank/1-Fleeting notes/SU2.md",
+    "Thinktank/14-Movies/電視劇.md",
+    "Thinktank/14-Movies/美劇.md",
     "Thinktank/14-Movies/Anime.md",
+    "Thinktank/15-Reading book/Reading book.md",
+    "Thinktank/15-Reading book",
+    "Thinktank/1-Fleeting notes/SU2.md",
     "Thinktank/8-English/Learning English with movies/Learn English With The Lion King.md",
     "Daily Note/2023-06-17.md",
     "Thinktank/3-Permanent notes/SU2/SU2 install.md",
@@ -154,7 +182,6 @@
     "Daily Note/config_template.cfg",
     "_attachment/InvRANS.txt",
     "_attachment/InvRANS 1.txt",
-    "Thinktank/14-Movies/美劇.md",
     "Thinktank/6-To do list/3-重要&不急/shell script 教學.md",
     "Thinktank/6-To do list/3-重要&不急/學長論文.md",
     "Thinktank/14-Movies",
@@ -173,12 +200,8 @@
     "Thinktank/6-Ｍission/3-重要&不急",
     "Thinktank/6-Ｍission/3-重要&不急/gitub.md",
     "Thinktank/6-Ｍission/4-不重要&不急",
-    "Thinktank/6-Ｍission/4-不重要&不急/GSM.md",
     "Thinktank/6-Ｍission/2-不重要＆急",
     "Thinktank/6-Ｍission/1-重要＆急",
-    "Thinktank/5-Code/1-Python/梯度優化法.md",
-    "Thinktank/5-Code/1-Python",
-    "Thinktank/2-Literature notes/Paraview.md",
     "_attachment/Pasted image 20230615225820.png",
     "_attachment/Community Plugins.png",
     "_attachment/opacity.png",
