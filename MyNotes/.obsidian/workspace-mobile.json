@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thinktank/14-Movies/Anime.md",
+                "file": "Thinktank/14-Movies/美劇.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Thinktank/14-Movies/Anime.md",
+            "file": "Thinktank/14-Movies/美劇.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Thinktank/14-Movies/Anime.md",
+            "file": "Thinktank/14-Movies/美劇.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -147,7 +147,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Thinktank/14-Movies/Anime.md"
+            "file": "Thinktank/14-Movies/美劇.md"
           }
         }
       }
@@ -167,9 +167,9 @@
   },
   "active": "f130ba868a340cc1",
   "lastOpenFiles": [
+    "Thinktank/14-Movies/Anime.md",
     "Thinktank/14-Movies/電視劇.md",
     "Thinktank/14-Movies/美劇.md",
-    "Thinktank/14-Movies/Anime.md",
     "Thinktank/15-Reading book/Reading book.md",
     "Thinktank/15-Reading book",
     "Thinktank/1-Fleeting notes/SU2.md",
