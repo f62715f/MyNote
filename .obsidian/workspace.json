@@ -11,8 +11,12 @@
             "id": "8b85a81e05ee156b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MyNotes/Thinktank/2-Literature notes/PPT tutorial.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MyNotes/Thinktank/2-Literature notes/PPT tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MyNotes/Thinktank/2-Literature notes/PPT tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MyNotes/Thinktank/2-Literature notes/PPT tutorial.md"
+              }
             }
           },
           {
@@ -149,8 +157,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "110d26c8cae20b06",
+  "active": "8b85a81e05ee156b",
   "lastOpenFiles": [
+    "MyNotes/Thinktank/2-Literature notes/Git & Github.md",
+    "MyNotes/Thinktank/6-To do list/3-重要&不急/學長論文.md",
+    "MyNotes/Thinktank/3-Permanent notes/Obsidian Tutorial.md",
+    "MyNotes/Thinktank/3-Permanent notes/Note-taking Stragegy.md",
+    "公式.md",
+    "MyNotes/Thinktank/8-English/Pronounce.md",
     "MyNotes/Thinktank/5-Code/1-Python/梯度優化法.md",
     "MyNotes/Thinktank/5-Code/1-Python/Euler Method.md",
     "MyNotes/Thinktank/5-Code/1-Python/Newton Method.md",
@@ -166,17 +180,11 @@
     "README.md",
     "MyNotes/Thinktank/13-Food and Drink/浪魂拉麵.md",
     "SU2 設置.md",
-    "公式.md",
     "MyNotes/Thinktank/12-Reading list/程式相關.md",
     "MyNotes/Thinktank/12-Reading list/賽局理論.md",
     "MyNotes/Thinktank/15-Reading book/Reading book.md",
     "Untitled.md",
     "MyNotes/Thinktank/3-Permanent notes/SU2/SU2 install.md",
-    "MyNotes/Daily Note/2023-06-13.md",
-    "MyNotes/Daily Note/2023-06-10.md",
-    "MyNotes/Daily Note/2023-06-17.md",
-    "MyNotes/Thinktank/1-Fleeting notes/Paraview.md",
-    "MyNotes/Thinktank/1-Fleeting notes/SU2.md",
     "MyNotes/Thinktank/3-Permanent notes/SU2",
     "Untitled",
     "MyNotes/Daily Note/config_template.cfg",
