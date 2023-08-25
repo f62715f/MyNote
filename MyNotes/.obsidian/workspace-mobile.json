@@ -19,36 +19,24 @@
             "id": "f9ee182dd0d98510",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thinktank/14-Movies/Anime.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "24ff98cfe83aa4c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thinktank/14-Movies/電視劇.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "f130ba868a340cc1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thinktank/14-Movies/美劇.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -118,7 +106,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Thinktank/14-Movies/美劇.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -135,7 +122,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Thinktank/14-Movies/美劇.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -146,9 +132,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Thinktank/14-Movies/美劇.md"
-          }
+          "state": {}
         }
       }
     ],
