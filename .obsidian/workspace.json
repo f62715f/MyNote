@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "MyNotes/Thinktank/4-Index notes/Worried.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "MyNotes/Thinktank/4-Index notes/Worried.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "MyNotes/Thinktank/4-Index notes/Worried.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "MyNotes/Thinktank/4-Index notes/Worried.md"
               }
             }
           },
@@ -159,10 +159,25 @@
   },
   "active": "8b85a81e05ee156b",
   "lastOpenFiles": [
-    "MyNotes/Thinktank/4-Index notes/Worried.md",
-    "MyNotes/Thinktank/4-Index notes/Note-taking strategies.md",
-    "MyNotes/Thinktank/4-Index notes/Assembly language.md",
     "MyNotes/Thinktank/4-Index notes/Thermodynamics.md",
+    "MyNotes/Thinktank/4-Index notes/Note-taking strategies.md",
+    "MyNotes/Thinktank/6-To do list/3-重要&不急/學長論文.md",
+    "MyNotes/Thinktank/6-To do list/3-重要&不急/Blender.md",
+    "MyNotes/Thinktank/6-To do list/3-重要&不急/shell script 教學.md",
+    "MyNotes/Thinktank/6-To do list/3-重要&不急/Shapr3D.md",
+    "MyNotes/Thinktank/6-To do list/3-重要&不急/gitub.md",
+    "MyNotes/Thinktank/6-To do list/3-重要&不急/Fluent and CFD.md",
+    "MyNotes/Thinktank/6-To do list/3-重要&不急/Git to Obsidian.md",
+    "MyNotes/Thinktank/6-To do list/4-不重要&不急/Notion.md",
+    "MyNotes/Thinktank/6-To do list/4-不重要&不急/GSM.md",
+    "MyNotes/Thinktank/10-Physical/All Physical.md",
+    "MyNotes/Thinktank/10-Physical/Acoustic Wave.md",
+    "MyNotes/Thinktank/8-English/Learning English with movies/List.md",
+    "MyNotes/Thinktank/8-English/Learning English with movies/Learn English With The Lion King.md",
+    "MyNotes/Thinktank/8-English/English 2023 June.md",
+    "README.md",
+    "MyNotes/Thinktank/4-Index notes/Worried.md",
+    "MyNotes/Thinktank/4-Index notes/Assembly language.md",
     "MyNotes/Thinktank/4-Index notes/相關名詞.md",
     "MyNotes/Thinktank/4-Index notes/Linux.md",
     "MyNotes/Thinktank/4-Index notes/Environment variable.md",
@@ -170,21 +185,6 @@
     "MyNotes/Thinktank/4-Index notes/分時操作系統.md",
     "MyNotes/Thinktank/2-Literature notes/計算機底層原理.md",
     "MyNotes/Thinktank/4-Index notes/Fluent.md",
-    "MyNotes/Thinktank/2-Literature notes/Cpp/2-Cpp & C  Tutorial.md",
-    "MyNotes/Thinktank/2-Literature notes/Cpp/1-Cpp movies.md",
-    "MyNotes/Thinktank/2-Literature notes/Cpp/3-Cpp Question.md",
-    "MyNotes/Thinktank/4-Index notes/Python.md",
-    "MyNotes/Thinktank/4-Index notes/Openform.md",
-    "MyNotes/Thinktank/4-Index notes/Machine learning.md",
-    "MyNotes/Thinktank/4-Index notes/航空發動機.md",
-    "MyNotes/Thinktank/4-Index notes/Anaconda.md",
-    "MyNotes/Thinktank/4-Index notes/DrawAI.md",
-    "MyNotes/Thinktank/4-Index notes/Docker.md",
-    "MyNotes/Thinktank/4-Index notes/CFD.md",
-    "MyNotes/Thinktank/2-Literature notes/Git & Github.md",
-    "MyNotes/Daily Note/2023-06-11.md",
-    "MyNotes/Daily Note/2023-06-10.md",
-    "MyNotes/Thinktank/8-English/English 2023 June.md",
     "MyNotes/Thinktank/3-Permanent notes/SU2",
     "Untitled",
     "MyNotes/Daily Note/config_template.cfg",
