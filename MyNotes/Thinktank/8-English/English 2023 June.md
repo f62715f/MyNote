@@ -7,7 +7,6 @@
 
 
 ### 2023-06-10
-* template
 * appearance
 * oncoming traffic
 * turn out

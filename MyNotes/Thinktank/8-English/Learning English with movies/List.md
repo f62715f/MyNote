@@ -20,6 +20,3 @@ https://space.bilibili.com/505560072
 
 * [Adam English](https://www.adamenglish.com.tw/OnlineCourse)
 
-
-## Feature Length Films
-* 禁忌世代
