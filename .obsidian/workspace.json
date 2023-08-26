@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyNotes/Thinktank/2-Literature notes/Cpp/3-Cpp Question.md",
+                "file": "MyNotes/Thinktank/2-Literature notes/Cpp/2-Cpp & C  Tutorial.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyNotes/Thinktank/2-Literature notes/Cpp/3-Cpp Question.md",
+                "file": "MyNotes/Thinktank/2-Literature notes/Cpp/2-Cpp & C  Tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyNotes/Thinktank/2-Literature notes/Cpp/3-Cpp Question.md",
+                "file": "MyNotes/Thinktank/2-Literature notes/Cpp/2-Cpp & C  Tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyNotes/Thinktank/2-Literature notes/Cpp/3-Cpp Question.md"
+                "file": "MyNotes/Thinktank/2-Literature notes/Cpp/2-Cpp & C  Tutorial.md"
               }
             }
           },
@@ -159,6 +159,10 @@
   },
   "active": "8b85a81e05ee156b",
   "lastOpenFiles": [
+    "MyNotes/Thinktank/2-Literature notes/計算機底層原理.md",
+    "MyNotes/Thinktank/2-Literature notes/Cpp/2-Cpp & C  Tutorial.md",
+    "MyNotes/Thinktank/2-Literature notes/Cpp/1-Cpp movies.md",
+    "MyNotes/Thinktank/2-Literature notes/Cpp/3-Cpp Question.md",
     "MyNotes/Thinktank/4-Index notes/Worried.md",
     "MyNotes/Thinktank/4-Index notes/Thermodynamics.md",
     "MyNotes/Thinktank/4-Index notes/Note-taking strategies.md",
@@ -176,15 +180,11 @@
     "MyNotes/Thinktank/2-Literature notes/Git & Github.md",
     "MyNotes/Daily Note/2023-06-11.md",
     "MyNotes/Daily Note/2023-06-10.md",
-    "MyNotes/Thinktank/2-Literature notes/計算機底層原理.md",
     "MyNotes/Thinktank/8-English/English 2023 June.md",
     "MyNotes/Thinktank/8-English/Learning English with movies/List.md",
     "MyNotes/Thinktank/8-English/Learning English with movies/Learn English With The Lion King.md",
-    "MyNotes/Thinktank/2-Literature notes/Cpp/2-Cpp & C  Tutorial.md",
-    "MyNotes/Thinktank/2-Literature notes/Cpp/1-Cpp movies.md",
     "MyNotes/Thinktank/2-Literature notes/Ｗord Tutorial.md",
     "MyNotes/Thinktank/2-Literature notes/PPT tutorial.md",
-    "MyNotes/Thinktank/6-To do list/3-重要&不急/學長論文.md",
     "MyNotes/Thinktank/3-Permanent notes/SU2",
     "Untitled",
     "MyNotes/Daily Note/config_template.cfg",
